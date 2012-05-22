@@ -53,7 +53,7 @@
 
 static const NSTimeInterval kPhotoLoadLongDelay   = 0.5;
 static const NSTimeInterval kPhotoLoadShortDelay  = 0.25;
-static const NSTimeInterval kSlideshowInterval    = 2;
+static const NSTimeInterval kSlideshowInterval    = 8;
 static const NSInteger kActivityLabelTag          = 96;
 
 
